@@ -1,5 +1,12 @@
 # DeepShield Core
 
+[![Build Status](https://github.com/DeepShield/deepshield-core/workflows/CI/badge.svg)](https://github.com/DeepShield/deepshield-core/actions)
+[![Crates.io](https://img.shields.io/crates/v/deepshield-core.svg)](https://crates.io/crates/deepshield-core)
+[![Documentation](https://docs.rs/deepshield-core/badge.svg)](https://docs.rs/deepshield-core)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/DeepShield/deepshield-core/blob/main/LICENSE)
+
+![DeepShield Logo](docs/assets/deepseektech.png)
+
 DeepShield Core is a comprehensive AI-powered security framework for DeFi agents and smart contracts. It provides real-time protection against various attack vectors and vulnerabilities in the DeFi ecosystem.
 
 ## Features
