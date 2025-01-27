@@ -5,5 +5,6 @@ pub enum SecurityError {
     ContractNotFound,
     APIError(String),
     ConfigError(String),
+    ChainError(String),
     // ... other error variants
 } 

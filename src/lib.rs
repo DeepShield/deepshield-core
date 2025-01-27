@@ -5,6 +5,13 @@ pub mod analyzers;
 pub mod defenders;
 pub mod types;
 pub mod utils;
+pub mod chains;
+
+// Re-export chain-specific items
+pub use chains::{
+    ethereum::EthereumAnalyzer,
+    solana::{SolanaSecurityAnalyzer, SolanaMonitor},
+};
 
 #[derive(Error, Debug)]
 pub enum SecurityError {
