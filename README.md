@@ -1,8 +1,6 @@
 # DeepShield Core
 
-[![Build Status](https://github.com/DeepShield/deepshield-core/workflows/CI/badge.svg)](https://github.com/DeepShield/deepshield-core/actions)
-[![Crates.io](https://img.shields.io/crates/v/deepshield-core.svg)](https://crates.io/crates/deepshield-core)
-[![Documentation](https://docs.rs/deepshield-core/badge.svg)](https://docs.rs/deepshield-core)
+[![Documentation](https://docs.rs/deepshield-core/badge.svg)](https://deepseek.gitbook.io/deepshield)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/DeepShield/deepshield-core/blob/main/LICENSE)
 
 ![DeepShield Logo](docs/assets/deepseektech.png)
@@ -143,4 +141,4 @@ For security concerns, please email security@deepshield.io
 
 ## Documentation
 
-For detailed documentation, visit [docs.deepshield.io](https://docs.deepshield.co)
+For detailed documentation, visit [docs.deepshield.io](https://deepseek.gitbook.io/deepshield)
